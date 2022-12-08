@@ -1,0 +1,42 @@
+.product-list{
+    text-align: center;
+    margin-top: 50px;
+    font-size: small;
+}
+
+.product-list ul li{
+    display: inline-block;
+    border: 1px solid grey;
+    padding: 5px;
+    width: 90px;
+}
+
+.product-list ul{
+    margin:0px;
+}
+.product-list li{
+    height: 40px;
+}
+
+.btndv{
+    display: inline-flex;
+}
+
+
+.cart-btn {
+  
+    background-color:orangered;
+    border-radius: 6px;
+    font-size: 10px;
+    color: #FFFFFF;
+    text-decoration: solid; 
+    height: 20px;
+   
+   
+   
+  
+    
+  }
+  .cart-btn:hover {
+    background-color:orange;
+  }

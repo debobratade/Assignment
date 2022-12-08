@@ -1,0 +1,63 @@
+.main_LeftRight{
+  /* padding-top: 10%; */
+  padding-left: 2%;
+}
+
+.container1 img{
+    margin-top: 5%;
+}
+.container1_mid{
+  float:right;
+  margin-top: -30%;
+  margin-right: 10%;
+  
+}
+
+.container1_mid p{
+    position: absolute;
+    width: 20%;
+    margin-right: 0%;
+    text-align: center;
+    margin-top: -0.5%;
+    text-align: right;
+}
+
+.container1_mid h2{
+    width: 60%;
+    text-align: right;
+}
+
+/* container2 */
+
+.container2{
+padding-top: 5%;
+}
+.container2 img{
+float: right;
+padding-right: 2%;
+}
+
+
+.container2_mid{
+  float:left;
+  /* margin-top: -30%; */
+  /* margin-right: 10%; */
+  
+}
+
+.container2_mid p{
+    position: absolute;
+    width: 20%;
+    margin-right: 0%;
+    text-align: center;
+    margin-top: -0.5%;
+    text-align: left;
+    margin-left: 19%;
+}
+
+.container2_mid h2{
+    width: 60%;
+    text-align: left;
+    margin-top: 20%;
+    margin-left: 59%;
+}

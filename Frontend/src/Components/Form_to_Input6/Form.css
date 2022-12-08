@@ -1,0 +1,64 @@
+.Main_Form{
+    margin-top: 30%;
+    padding: 10%;
+    margin-left: 40px;
+}
+
+
+.firstBox{
+  height: 35px;
+    width: 350px;
+    border: 2px solid gray;
+  
+    margin-right: 25px; 
+}
+.first3Box{
+  height: 35px;
+    width: 138px;
+    border: 2px solid gray;
+   
+  
+}
+
+.second_row{
+    margin-top: 15px;
+}
+
+.secondBox{
+    height: 35px;
+    width: 205px;
+    border: 2px solid gray;
+   
+    margin-right: 25px; 
+}
+
+.secondLast_Row{
+    margin-top: 15px;
+}
+
+.secondLastBox{
+    height: 35px;
+    width: 900px;
+    border: 2px solid gray;
+}
+
+.Last_Row{
+    margin-top: 15px;
+}
+
+.lastBox{
+    height: 100px;
+    width: 900px;
+    border: 2px solid gray;
+}
+
+.btn_Form{
+    margin-top: 15px;
+    height: 40px;
+    width: 910px;
+    cursor: pointer;
+    background-color: orangered;
+    border: 1px solid orangered;
+    font-size: medium;
+    color: white;
+}

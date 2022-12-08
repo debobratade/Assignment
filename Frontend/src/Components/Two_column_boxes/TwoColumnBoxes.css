@@ -1,0 +1,49 @@
+.main_TwoColumnBoxes{
+display: inline-flex;
+}
+
+.container1_TwoColumnBoxes{
+margin-left: 10%;
+}
+
+.container1_TwoColumnBoxes img{
+width: 60%;
+margin-left: 10%;
+margin-top: 5%;
+}
+
+.container1_TwoColumnBoxes h3{
+    margin-left: 16%;
+    margin-top: -1%;
+}
+.container1_TwoColumnBoxes p{
+    position: absolute;
+    width: 33%;
+    margin-left: 4%;
+    text-align: center;
+    margin-top: -0.5%;
+}
+
+
+.container2_TwoColumnBoxes{
+    margin-right: 15%;
+}
+.container2_TwoColumnBoxes img{
+    width: 95%;
+    height: 62%;
+    margin-right: 10%;
+    margin-top: 8%;
+    border-radius: 30px;
+    }
+    
+    .container2_TwoColumnBoxes h3{
+        margin-right: 8%;
+        margin-top: -1%;
+    }
+    .container2_TwoColumnBoxes p{
+        position: absolute;
+    width: 33%;
+    margin-left: -3%;
+    text-align: center;
+    margin-top: -0.5%;
+    }
